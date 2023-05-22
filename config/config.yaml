@@ -34,20 +34,14 @@ dns:
   nameserver:
   - https://dns.adguard-dns.com/dns-query
   - tls://dns.adguard-dns.com:853
-  - 114.114.114.114
-  - 8.8.8.8
-  - 1.1.1.1
-  - https://dns.google/dns-query
-  - tls://dns.google
+  - https://114.114.114.114
+  - https://8.8.8.8
   - https://dns.quad9.net/dns-query
   - tls://9.9.9.9:853
-  - https://cloudflare-dns.com/dns-query
-  - tls://1dot1dot1dot1.cloudflare-dns.com
   fallback:
   - https://dns.adguard-dns.com/dns-query
   - tls://dns.adguard-dns.com:853
-  - https://dns.google/dns-query
-  - tls://dns.google
+  - tls://dns.google:853
   - https://dns.quad9.net/dns-query
   - tls://149.112.112.112:853
   - tls://one.one.one.one:853
@@ -140,30 +134,29 @@ rule-providers:
   R-UMUM:
     type: http
     behavior: classical
-    url: https://raw.githubusercontent.com/klik-on/clash/main/rule_provider/umum.yaml
     path: "./rule_provider/umum.yaml"
+    url: https://raw.githubusercontent.com/klik-on/clash/main/rule_provider/umum.yaml
     interval: 86400
   R-STREAMING:
     type: http
-    url: https://raw.githubusercontent.com/klik-on/clash/main/rule_provider/streaming.yaml
     behavior: classical
     path: "./rule_provider/streaming.yaml"
+    url: https://raw.githubusercontent.com/klik-on/clash/main/rule_provider/streaming.yaml
     interval: 86400
   R-SOSMED:
     type: http
-    url: https://raw.githubusercontent.com/klik-on/clash/main/rule_provider/sosmed.yaml
     behavior: classical
     path: "./rule_provider/sosmed.yaml"
+    url: https://raw.githubusercontent.com/klik-on/clash/main/rule_provider/sosmed.yaml
     interval: 86400
   R-GAMING:
     type: http
-    url: https://raw.githubusercontent.com/klik-on/clash/main/game_rules/gaming.yaml
     behavior: classical
     path: "./game_rules/gaming.yaml"
+    url: https://raw.githubusercontent.com/klik-on/clash/main/game_rules/gaming.yaml
     interval: 86400
 hosts:
 experimental:
   sniff-tls-sni: true
 authentication:
 - Clash:ZOR2q1IR
-
