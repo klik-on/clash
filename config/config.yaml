@@ -132,21 +132,29 @@ proxy-providers:
       interval: 300
 rule-providers:
   R-UMUM:
-    type: file
+    type: http
     behavior: classical
+    url: https://raw.githubusercontent.com/klik-on/clash/main/rule_provider/umum.yaml
     path: "./rule_provider/umum.yaml"
+    interval: 86400
   R-STREAMING:
-    type: file
+    type: http
+    url: https://raw.githubusercontent.com/klik-on/clash/main/rule_provider/streaming.yaml
     behavior: classical
     path: "./rule_provider/streaming.yaml"
+    interval: 86400
   R-SOSMED:
-    type: file
+    type: http
+    url: https://raw.githubusercontent.com/klik-on/clash/main/rule_provider/sosmed.yaml
     behavior: classical
     path: "./rule_provider/sosmed.yaml"
+    interval: 86400
   R-GAMING:
-    type: file
+    type: http
+    url: https://raw.githubusercontent.com/klik-on/clash/main/game_rules/gaming.yaml
     behavior: classical
     path: "./game_rules/gaming.yaml"
+    interval: 86400
 hosts:
 experimental:
   sniff-tls-sni: true
