@@ -145,7 +145,7 @@ rule-providers:
     interval: 86400
   R-SOSMED:
     type: http
-    behavior: classical
+    behavior: domain
     path: "./rule_provider/sosmed.yaml"
     url: https://raw.githubusercontent.com/klik-on/clash/main/rule_provider/sosmed.yaml
     interval: 86400
