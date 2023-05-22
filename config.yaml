@@ -151,7 +151,7 @@ rule-providers:
     interval: 86400
   R-GAMING:
     type: http
-    behavior: classical
+    behavior: domain
     path: "./game_rules/gaming.yaml"
     url: https://raw.githubusercontent.com/klik-on/clash/main/game_rules/gaming.yaml
     interval: 86400
