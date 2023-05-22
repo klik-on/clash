@@ -34,14 +34,20 @@ dns:
   nameserver:
   - https://dns.adguard-dns.com/dns-query
   - tls://dns.adguard-dns.com:853
-  - https://114.114.114.114
-  - https://8.8.8.8
+  - 114.114.114.114
+  - 8.8.8.8
+  - 1.1.1.1
+  - https://dns.google/dns-query
+  - tls://dns.google
   - https://dns.quad9.net/dns-query
   - tls://9.9.9.9:853
+  - https://cloudflare-dns.com/dns-query
+  - tls://1dot1dot1dot1.cloudflare-dns.com
   fallback:
   - https://dns.adguard-dns.com/dns-query
   - tls://dns.adguard-dns.com:853
-  - tls://dns.google:853
+  - https://dns.google/dns-query
+  - tls://dns.google
   - https://dns.quad9.net/dns-query
   - tls://149.112.112.112:853
   - tls://one.one.one.one:853
