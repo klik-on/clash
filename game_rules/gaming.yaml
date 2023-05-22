@@ -1,450 +1,654 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-games
+
+# Behavior: domain
+
 payload:
-  # Mulai baris ini kebawah bisa di edit/hapus
-  #MLBB
-  - DOMAIN-SUFFIX,mobilelegends.com
-  - DOMAIN-SUFFIX,mobilelegends.ca
-  - DOMAIN-SUFFIX,mobilelegends.cn
-  - DOMAIN-SUFFIX,mobilelegends.co.kr
-  - DOMAIN-SUFFIX,mobilelegends.info
-  - DOMAIN-SUFFIX,mobilelegends.kr
-  - DOMAIN-SUFFIX,mobilelegends.net
-  - DOMAIN-SUFFIX,mobilelegends.org
-  - DOMAIN-SUFFIX,mobilelegends.com.cn
-  - DOMAIN-SUFFIX,youngjoygame.com
-  - DOMAIN-SUFFIX,yuanzhanapp.com
-  - DOMAIN-SUFFIX,aihelp.net
-  - DOMAIN,tnc16-alisg.isnssdk.com
-  - DOMAIN,gplog-sg.byteoversea.com
-  - DOMAIN,xlog.byteoversea.com
-  # FreeFire
-  - DOMAIN-KEYWORD,freefire
-  # PUBG
-  - DOMAIN-SUFFIX,pubgmobile.com
-  - DOMAIN-SUFFIX,igamecj.com
-  - DOMAIN,file-igamecj.akamaized.net
-  - IP-CIDR,45.40.220.0/22
-  - IP-CIDR,150.109.124.0/23
-  - IP-CIDR,49.51.228.0/23
-  - IP-CIDR,170.106.102.0/24
-  # Roblox
-  - DOMAIN-SUFFIX,roblox.com
-  - DOMAIN-SUFFIX,rbxcdn.com
-  - DOMAIN-SUFFIX,rbxtrk.com
-  - DOMAIN-SUFFIX,roblox.plus
-  - DOMAIN-SUFFIX,robloxinc.s.llnwi.net
-  - IP-CIDR,103.140.28.0/23
-  - IP-CIDR,128.116.0.0/17
-  - IP-CIDR,141.193.3.0/24
-  - IP-CIDR,205.201.62.0/24
-  - IP-CIDR,209.206.40.0/21
-  - IP-CIDR6,2620:2b:e000::/48
-  - IP-CIDR6,2620:135:6000::/40
-  - IP-CIDR,128.116.21.114/8
-  - IP-CIDR,8.42.96.0/24
-  - IP-CIDR,23.57.113.0/24
-  - IP-CIDR,23.106.120.0/24
-  - IP-CIDR,23.106.121.0/24
-  - IP-CIDR,23.106.122.0/24
-  - IP-CIDR,23.106.123.0/24
-  - IP-CIDR,23.106.124.0/24
-  - IP-CIDR,23.106.125.0/24
-  - IP-CIDR,35.186.208.0/24
-  - IP-CIDR,43.249.37.0/24
-  - IP-CIDR,52.216.0.0/16
-  - IP-CIDR,62.212.82.0/24
-  - IP-CIDR,64.120.112.0/24
-  - IP-CIDR,64.120.113.0/24
-  - IP-CIDR,64.120.114.0/24
-  - IP-CIDR,64.120.115.0/24
-  - IP-CIDR,64.120.116.0/24
-  - IP-CIDR,64.120.117.0/24
-  - IP-CIDR,66.115.169.0/24
-  - IP-CIDR,66.165.237.0/24
-  - IP-CIDR,66.165.238.0/24
-  - IP-CIDR,66.165.239.0/24
-  - IP-CIDR,66.165.240.0/24
-  - IP-CIDR,66.165.241.0/24
-  - IP-CIDR,66.165.244.0/24
-  - IP-CIDR,66.165.245.0/24
-  - IP-CIDR,66.165.246.0/24
-  - IP-CIDR,66.165.248.0/24
-  - IP-CIDR,78.159.97.0/24
-  - IP-CIDR,78.159.98.0/24
-  - IP-CIDR,95.168.180.0/24
-  - IP-CIDR,95.168.183.0/24
-  - IP-CIDR,95.168.188.0/24
-  - IP-CIDR,95.168.189.0/24
-  - IP-CIDR,95.211.86.0/24
-  - IP-CIDR,103.101.129.0/24
-  - IP-CIDR,103.101.130.0/24
-  - IP-CIDR,104.206.0.0/16
-  - IP-CIDR,104.206.1.0/24
-  - IP-CIDR,104.206.2.0/24
-  - IP-CIDR,104.206.228.0/24
-  - IP-CIDR,104.206.229.0/24
-  - IP-CIDR,104.206.230.0/24
-  - IP-CIDR,107.158.144.0/24
-  - IP-CIDR,107.158.145.0/24
-  - IP-CIDR,107.158.146.0/24
-  - IP-CIDR,107.181.164.0/24
-  - IP-CIDR,107.181.173.0/24
-  - IP-CIDR,128.116.0.0/16
-  - IP-CIDR,128.116.1.0/24
-  - IP-CIDR,128.116.2.0/24
-  - IP-CIDR,128.116.3.0/24
-  - IP-CIDR,128.116.4.0/24
-  - IP-CIDR,128.116.5.0/24
-  - IP-CIDR,128.116.6.0/24
-  - IP-CIDR,128.116.7.0/24
-  - IP-CIDR,128.116.8.0/24
-  - IP-CIDR,128.116.9.0/24
-  - IP-CIDR,128.116.13.0/24
-  - IP-CIDR,128.116.14.0/24
-  - IP-CIDR,128.116.15.0/24
-  - IP-CIDR,128.116.16.0/24
-  - IP-CIDR,128.116.17.0/24
-  - IP-CIDR,128.116.18.0/24
-  - IP-CIDR,128.116.19.0/24
-  - IP-CIDR,128.116.20.0/24
-  - IP-CIDR,128.116.23.0/24
-  - IP-CIDR,128.116.24.0/24
-  - IP-CIDR,128.116.25.0/24
-  - IP-CIDR,128.116.26.0/24
-  - IP-CIDR,128.116.27.0/24
-  - IP-CIDR,128.116.28.0/24
-  - IP-CIDR,128.116.29.0/24
-  - IP-CIDR,128.116.30.0/24
-  - IP-CIDR,128.116.31.0/24
-  - IP-CIDR,128.116.32.0/24
-  - IP-CIDR,128.116.33.0/24
-  - IP-CIDR,128.116.34.0/24
-  - IP-CIDR,128.116.39.0/24
-  - IP-CIDR,128.116.40.0/24
-  - IP-CIDR,128.116.41.0/24
-  - IP-CIDR,128.116.42.0/24
-  - IP-CIDR,128.116.43.0/24
-  - IP-CIDR,172.83.42.0/24
-  - IP-CIDR,172.83.43.0/24
-  - IP-CIDR,172.83.44.0/24
-  - IP-CIDR,172.83.45.0/24
-  - IP-CIDR,172.83.46.0/24
-  - IP-CIDR,172.83.47.0/24
-  - IP-CIDR,172.98.70.0/24
-  - IP-CIDR,172.98.75.0/24
-  - IP-CIDR,172.98.90.0/24
-  - IP-CIDR,172.98.93.0/24
-  - IP-CIDR,172.98.95.0/24
-  - IP-CIDR,180.222.100.0/24
-  - IP-CIDR,185.254.70.0/24
-  - IP-CIDR,185.254.71.0/24
-  - IP-CIDR,192.111.128.0/24
-  - IP-CIDR,198.8.89.0/24
-  - IP-CIDR,198.8.95.0/24
-  - IP-CIDR,199.36.222.0/24
-  - IP-CIDR,199.116.116.0/24
-  - IP-CIDR,199.229.251.0/24
-  - IP-CIDR,205.185.216.0/24
-  - IP-CIDR,209.58.170.0/24
-  - IP-CIDR,209.58.184.0/24
-  - IP-CIDR,209.58.185.0/24
-  - IP-CIDR,209.206.42.0/24
-  - IP-CIDR,209.206.43.0/24
-  - IP-CIDR,209.206.44.0/24
-  - IP-CIDR,209.206.45.0/24
-  - IP-CIDR,209.206.46.0/24
-  - IP-CIDR,209.206.47.0/24  
-# > Agar
-  - DOMAIN-SUFFIX,agar.io
-# > ark
-  - DOMAIN-SUFFIX,arkdedicated.com
-  - DOMAIN-SUFFIX,playark.com
-# > bigfishgames
-  - DOMAIN-SUFFIX,bigfishgames.com
-# > blizzard
-  - DOMAIN-SUFFIX,battle.net
-  - DOMAIN-SUFFIX,battlenet.com.cn
-  - DOMAIN-SUFFIX,blizzard.cn
-  - DOMAIN-SUFFIX,blizzard.com
-  - DOMAIN-SUFFIX,blizzardgames.cn
-  - DOMAIN-SUFFIX,blz-contentstack.com
-  - DOMAIN-SUFFIX,blzstatic.cn
-  - DOMAIN-SUFFIX,bnet.163.com
-  - DOMAIN-SUFFIX,bnet.cn
-# > 2kGaming
-  - DOMAIN-SUFFIX,2k.com
-  - DOMAIN-SUFFIX,2kcoretech.online
-  - DOMAIN-SUFFIX,2ksports.com
-# > CoD
-  - DOMAIN-SUFFIX,callofduty.com
-  - DOMAIN-SUFFIX,callofdutyleague.com
-# > Candy Crush
-  - DOMAIN-SUFFIX,candycrush.king.com
-  - DOMAIN-SUFFIX,candycrush4.king.com
-  - DOMAIN-SUFFIX,candycrushsoda.king.com
-  - DOMAIN-SUFFIX,candycrushsodamobile.king.com
-# > CoC
-  - DOMAIN-SUFFIX,clashofclans.com
-# > Clash Royal
-  - DOMAIN-SUFFIX,clashroyale.com
-  - DOMAIN-SUFFIX,clashroyaleapp.com
-# > cpmstar
-  - DOMAIN-SUFFIX,cpmstar.com
-# > EA Games
-  - DOMAIN-SUFFIX,ea.com
-  - DOMAIN-SUFFIX,eamobile.com
-  - DOMAIN-SUFFIX,easports.com
-  - DOMAIN-SUFFIX,friends-prod.us-east-1.elasticbeanstalk.com
-  - DOMAIN-SUFFIX,nearpolar.com
-  - DOMAIN-SUFFIX,swtor.com
-  - DOMAIN-SUFFIX,tnt-ea.com
-# > Epic Games
-  - DOMAIN-SUFFIX,epicgames.com
-  - DOMAIN-SUFFIX,epicgames.dev
-  - DOMAIN-SUFFIX,epicgames.net
-  - DOMAIN-SUFFIX,unrealengine.com
-# > FIFA
-  - DOMAIN-SUFFIX,fifa-online.easports.com
-  - DOMAIN-SUFFIX,fifa.stats.gameservices.ea.com
-  - DOMAIN-SUFFIX,fifa15.content.easports.com
-  - DOMAIN-SUFFIX,fifa18.content.easports.com
-  - DOMAIN-SUFFIX,fifa19.content.easports.com
-  - DOMAIN-SUFFIX,fifa19.service.easports.com
-  - DOMAIN-SUFFIX,fifa20.content.easports.com
-  - DOMAIN-SUFFIX,fifa20.service.easports.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-16.ea.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-17.ea.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-18.ea.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-19.ea.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-22.ea.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-23.ea.com
-  - DOMAIN-SUFFIX,fifa21-prod-gen4-app-24.ea.com
-  - DOMAIN-SUFFIX,fifa21.content.easports.com
-  - DOMAIN-SUFFIX,fifa21.service.easports.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-01.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-02.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-03.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-04.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-05.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-06.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-07.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-08.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-09.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-10.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-11.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-12.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-13.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-14.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-15.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-16.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-17.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-18.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-19.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-20.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-21.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-22.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-23.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-24.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-25.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-26.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-27.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-28.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-29.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-30.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-31.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-32.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-33.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-34.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-35.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-36.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-37.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-38.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-39.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-40.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-41.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-42.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-43.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-44.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-45.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-46.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-47.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-48.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-49.ea.com
-  - DOMAIN-SUFFIX,fifa22-prd-mp-blaze-50.ea.com
-  - DOMAIN-SUFFIX,fifa22.content.easports.com
-  - DOMAIN-SUFFIX,fifa22.service.easports.com
-# > forgeofempires
-  - DOMAIN-SUFFIX,forgeofempires.com
-# > gameloft
-  - DOMAIN-SUFFIX,gameloft.com
-# > GoG
-  - DOMAIN-SUFFIX,gog-statics.com
-  - DOMAIN-SUFFIX,gog.com
-  - DOMAIN-SUFFIX,gogalaxy.com
-  - DOMAIN-SUFFIX,gogcdn.net
-# > haydaygame
-  - DOMAIN-SUFFIX,haydaygame.com
-# > king games
-  - DOMAIN-SUFFIX,king.com
-  - DOMAIN-SUFFIX,midasplayer.com
-# > madden by EA
-  - DOMAIN-SUFFIX,madden20.service.easports.com
-  - DOMAIN-SUFFIX,madden21.service.easports.com
-  - DOMAIN-SUFFIX,madden22.service.easports.com
-# > microsoft games
-  - DOMAIN-SUFFIX,microsoftcasualgames.com
-  - DOMAIN-SUFFIX,msgamestudios.com
-# > Minecraft
-  - DOMAIN-SUFFIX,minecraft-services.net
-  - DOMAIN-SUFFIX,minecraft.net
-  - DOMAIN-SUFFIX,minecraftprod.rtep.msgamestudios.com
-  - DOMAIN-SUFFIX,minecraftservices.com
-  - DOMAIN-SUFFIX,mojang.com
-# > Miniclip
-  - DOMAIN-SUFFIX,miniclip.com
-# > Mixer
-  - DOMAIN-SUFFIX,mixer.com
-# > NHL
-  - DOMAIN-SUFFIX,nhl21-prod-app-01.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-02.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-03.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-04.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-05.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-06.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-07.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-08.ea.com
-  - DOMAIN-SUFFIX,nhl21-prod-app-09.ea.com
-  - DOMAIN-SUFFIX,nhl21.content.easports.com
-  - DOMAIN-SUFFIX,nhl21.service.easports.com
-  - DOMAIN-SUFFIX,nhl22.content.easports.com
-  - DOMAIN-SUFFIX,nhl22.service.easports.com
-# > Pokemon Go
-  - DOMAIN-SUFFIX,niantic.helpshift.com
-  - DOMAIN-SUFFIX,nianticlabs.com
-  - DOMAIN-SUFFIX,pokemongolive.com
-# > Nintendo
-  - DOMAIN-SUFFIX,nintendo-europe.com
-  - DOMAIN-SUFFIX,nintendo.be
-  - DOMAIN-SUFFIX,nintendo.co.jp
-  - DOMAIN-SUFFIX,nintendo.co.uk
-  - DOMAIN-SUFFIX,nintendo.com
-  - DOMAIN-SUFFIX,nintendo.com.102.112.2o7.net
-  - DOMAIN-SUFFIX,nintendo.com.au
-  - DOMAIN-SUFFIX,nintendo.de
-  - DOMAIN-SUFFIX,nintendo.es
-  - DOMAIN-SUFFIX,nintendo.eu
-  - DOMAIN-SUFFIX,nintendo.fr
-  - DOMAIN-SUFFIX,nintendo.it
-  - DOMAIN-SUFFIX,nintendo.jp
-  - DOMAIN-SUFFIX,nintendo.net
-  - DOMAIN-SUFFIX,nintendo.nl
-  - DOMAIN-SUFFIX,nintendoco.s.llnwi.net
-  - DOMAIN-SUFFIX,nintendoswitch.cn
-  - DOMAIN-SUFFIX,nintendowifi.net
-# > OP
-  - DOMAIN-SUFFIX,op.gg
-# > Origin
-  - DOMAIN-SUFFIX,origin.com
-# > Playrix
-  - DOMAIN-SUFFIX,playrix.com
-  - DOMAIN-SUFFIX,playrix.helpshift.com
-# > Playstation
-  - DOMAIN-SUFFIX,playstation.com
-  - DOMAIN-SUFFIX,playstation.net
-  - DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-# > Riot Games
-  - DOMAIN-SUFFIX,leagueoflegends.com
-  - DOMAIN-SUFFIX,lolstatic.com
-  - DOMAIN-SUFFIX,rgpub.io
-  - DOMAIN-SUFFIX,riotcdn.com
-  - DOMAIN-SUFFIX,riotcdn.net
-  - DOMAIN-SUFFIX,riotgames.com
-# > Rockstar
-  - DOMAIN-SUFFIX,rockstargames.com
-# > Steam
-  - DOMAIN-SUFFIX,s.team
-  - DOMAIN-SUFFIX,steam-chat.com
-  - DOMAIN-SUFFIX,steamchina.com
-  - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-SUFFIX,steamgames.com
-  - DOMAIN-SUFFIX,steampipe.akamaized.net
-  - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-SUFFIX,steampowered.com.8686c.com
-  - DOMAIN-SUFFIX,steamstatic.com
-  - DOMAIN-SUFFIX,steamstatic.com.8686c.com
-  - DOMAIN-SUFFIX,steamusercontent.com
-  - DOMAIN-SUFFIX,valve.net
-  - DOMAIN-SUFFIX,valvesoftware.com
-# > Supercell
-  - DOMAIN-SUFFIX,supercell.com
-  - DOMAIN-SUFFIX,supercell.helpshift.com
-  - DOMAIN-SUFFIX,supercell.net
-# > take2games
-  - DOMAIN-SUFFIX,take2games.com
-# > Ubisoft
-  - DOMAIN-SUFFIX,ubi.com
-  - DOMAIN-SUFFIX,ubisoft.com
-  - DOMAIN-SUFFIX,ubisoft.org
-  - DOMAIN-SUFFIX,ubisoftconnect.com
-# > Unity3d
-  - DOMAIN-SUFFIX,unity3d.com
-# > War Gaming
-  - DOMAIN-SUFFIX,wargaming.com
-  - DOMAIN-SUFFIX,wargaming.net
-  - DOMAIN-SUFFIX,worldoftanks.com
-# > Xbox
-  - DOMAIN-SUFFIX,xbox.com
-  - DOMAIN-SUFFIX,gamepass.com
-  - DOMAIN-SUFFIX,xboxab.com
-  - DOMAIN-SUFFIX,xboxab.net
-  - DOMAIN-SUFFIX,xboxlive.com
-  - DOMAIN-SUFFIX,xboxservices.com
-# > Zynga
-  - DOMAIN-SUFFIX,zynga.com
-  - DOMAIN-SUFFIX,zynga.my
-  - DOMAIN-SUFFIX,zyngagames.com
-  - DOMAIN-SUFFIX,zyngapoker.com
-  - DOMAIN-SUFFIX,zyngasupport.helpshift.com
-# > Bleach ES
-  - DOMAIN-SUFFIX,vsplay.com
-  - DOMAIN-SUFFIX,efun.com
-  - DOMAIN-SUFFIX,efunen.com
-# > Apex Legends Mobile
-  - DOMAIN-SUFFIX,tdm.mgapex.com
-  - DOMAIN-SUFFIX,download.2.707369824.dmp.mgapex.com
-  - DOMAIN-SUFFIX,bugly-android.mgapex.com
-  - DOMAIN-SUFFIX,itop.mgapex.com
-  - DOMAIN-SUFFIX,tgpa.mgapex.com
-  - DOMAIN-SUFFIX,cloudctrl.mgapex.com
-  - DOMAIN-SUFFIX,file.mgapex.com
-  - DOMAIN-SUFFIX,ire.csoversea.mgapex.com
-  - DOMAIN-SUFFIX,voice-sg.mgapex.com
-  - DOMAIN-SUFFIX,pay.mgapex.com
-  - DOMAIN-SUFFIX,lobby.mgapex.com
-  - DOMAIN-SUFFIX,apex.go.sonobi.com
-  - DOMAIN-SUFFIX,mgapex.com
-  - DOMAIN-SUFFIX,devmgapex.com
-  - DOMAIN-SUFFIX,listdl.com
-  - DOMAIN-KEYWORD,mgapex
-  - DOMAIN-KEYWORD,devmgapex
-# > Konami
-  - DOMAIN-SUFFIX,konami.net
-  - DOMAIN-KEYWORD,konami
-  - DOMAIN-SUFFIX,applilink.jp
-# > Growtopia
-  - DOMAIN-SUFFIX,growtopia1.com
-  - DOMAIN-SUFFIX,growtopia2.com
-  - DOMAIN-SUFFIX,growtopiagame.com
-  - DOMAIN-KEYWORD,growtopia
-# > Genshin Impact
-  - DOMAIN-SUFFIX,genshinimpact.com
-  - DOMAIN-SUFFIX,honkaiimpact3.com
-  - DOMAIN-SUFFIX,honkaistarrail.com
-  - DOMAIN-SUFFIX,hoyo.link
-  - DOMAIN-SUFFIX,hoyolab.com
-  - DOMAIN-SUFFIX,hoyoverse.com
-  - DOMAIN-SUFFIX,n0vadesktop.com
-  - DOMAIN-SUFFIX,mihoyo.com
-  - DOMAIN-KEYWORD,genshinimpact
-  - DOMAIN-KEYWORD,honkaiimpact3
-  - DOMAIN-KEYWORD,mihoyo
+- "+.100classicbooks.com"
+- "+.17roco.com"
+- "+.2k.com"
+- "+.2kcoretech.online"
+- "+.2kgames.com"
+- "+.ac-pocketcamp.com"
+- "+.amiibo.com"
+- "+.anthemgame.com"
+- "+.anthemthegame.com"
+- "+.anticheatexpert.com"
+- "+.apexlegends.com"
+- "+.awayoutgame.com"
+- "+.ayudanintendo.com"
+- "+.battle.net"
+- "+.battlebreakers.com"
+- "+.battlecare.net"
+- "+.battlefield.com"
+- "+.battlefield1943.com"
+- "+.battlefield3.com"
+- "+.battlefield4.com"
+- "+.battlefield5.com"
+- "+.battlefieldbadcompany2.com"
+- "+.battlefieldheroes.com"
+- "+.battlefieldv.com"
+- "+.battlefront2.com"
+- "+.battlefrontii.com"
+- "+.battlelog.com"
+- "+.battlenet.com.cn"
+- "+.bcfmglobal.com"
+- "+.bejeweledstars.com"
+- "+.bejewled-stars.com"
+- "+.benghuai.com"
+- "+.beth.games"
+- "+.bethesda.net"
+- "+.bethesdagamestudios.com"
+- "+.bethsoft.com"
+- "+.bh3.com"
+- "+.bhsr.com"
+- "+.bioware.com"
+- "+.biowarestore.com"
+- "+.blackboxgames.com"
+- "+.blizzard.cn"
+- "+.blizzard.com"
+- "+.blizzardgames.cn"
+- "+.blizzardgearstore.com"
+- "+.blz-contentstack.com"
+- "+.blzstatic.cn"
+- "+.bnet.163.com"
+- "+.bowsersinsidestory.com"
+- "+.brawlstars.cn"
+- "+.callersbane.com"
+- "+.camelot-europe.com"
+- "+.camelotherald.com"
+- "+.camelotherald.net"
+- "+.capitalgames.com"
+- "+.championshipseriesleague.com"
+- "+.chillingo.com"
+- "+.cncrivals.com"
+- "+.codm.com"
+- "+.commandandconquer.com"
+- "+.conquerwithcharacter.com"
+- "+.convrgencegame.com"
+- "+.crysis.jp"
+- "+.csgo.wmsj.cn"
+- "+.curseforge.com"
+- "+.cygames.co.jp"
+- "+.cygames.jp"
+- "+.daoc.net"
+- "+.darkageofcamelot.com"
+- "+.darkness-risen.com"
+- "+.dawngate.com"
+- "+.dawngatechronicles.com"
+- "+.deadspacegame.com"
+- "+.diablo3.com"
+- "+.diabloimmortal.com"
+- "+.dialga.com"
+- "+.dice.se"
+- "+.dicela.com"
+- "+.dicela.net"
+- "+.diddykongracing.com"
+- "+.dkr.com"
+- "+.dl.steam.clngaa.com"
+- "+.dl.steam.ksyna.com"
+- "+.donkeykongcountryreturns.com"
+- "+.doom.com"
+- "+.dota2.wmsj.cn"
+- "+.dragonage.com"
+- "+.dragonagekeep.com"
+- "+.dragonagemovie.com"
+- "+.drmario-world.com"
+- "+.dungeonkeeper.cn"
+- "+.dungeonkeeper.com"
+- "+.dungeonkeeper.com.cn"
+- "+.ea-anz-press.com"
+- "+.ea.com"
+- "+.eaaccess.com"
+- "+.eablackbox.com"
+- "+.eac-cdn.com"
+- "+.eacashcard.com"
+- "+.eacodigos.com"
+- "+.eafootballworld.com"
+- "+.eakorea.co.kr"
+- "+.eamirrorsedge.com"
+- "+.eamobile.com"
+- "+.eamythic.com"
+- "+.eamythic.net"
+- "+.eanordic.com"
+- "+.eaplay.com"
+- "+.easports.com"
+- "+.easports.jp"
+- "+.easportsactive.com"
+- "+.easportsactiveonline.com"
+- "+.easportsfootball.com"
+- "+.easportsfootballclub.com"
+- "+.easportsmma.com"
+- "+.easportsworld.com"
+- "+.eastore.com"
+- "+.easy.ac"
+- "+.easyanticheat.net"
+- "+.edge.steam-dns.top.comcast.net"
+- "+.elderscrolls.com"
+- "+.electronicarts.com"
+- "+.electronicarts.fr"
+- "+.epicgames.com"
+- "+.excitebots.com"
+- "+.fanatical.com"
+- "+.ffbuddy.com"
+- "+.fifastreet.com"
+- "+.fifastreet3.com"
+- "+.fire-emblem-heroes.com"
+- "+.fireemblemawakening.com"
+- "+.firesidegatherings.com"
+- "+.flipnotestudio.com"
+- "+.forgecdn.net"
+- "+.fortnite.com"
+- "+.forzamotorsport.net"
+- "+.forzaracingchampionship.com"
+- "+.forzarc.com"
+- "+.frostbite.com"
+- "+.futpromos.com"
+- "+.futunited.com"
+- "+.gamebonfire.com"
+- "+.gameitop.com"
+- "+.gameloop.com"
+- "+.gamepass.com"
+- "+.garena.co.id"
+- "+.garena.co.th"
+- "+.garena.com"
+- "+.garena.live"
+- "+.garena.my"
+- "+.garena.ph"
+- "+.garena.sg"
+- "+.garena.tv"
+- "+.garena.tw"
+- "+.garena.vn"
+- "+.garenanow.com"
+- "+.gcloudcs.com"
+- "+.gcloudcstest.com"
+- "+.gcloudcstestonly.com"
+- "+.gclouddolphin.com"
+- "+.gcloudsdk.com"
+- "+.gdtimg.com"
+- "+.genshinimpact.com"
+- "+.ghostgames.com"
+- "+.giratina.com"
+- "+.gloryofheracles.com"
+- "+.gog-statics.com"
+- "+.gog.com"
+- "+.goto-game.com"
+- "+.goto-game.mobi"
+- "+.goto-game.net.cn"
+- "+.goto-game.org"
+- "+.gotolink.net"
+- "+.gouhuo.qq.com"
+- "+.gtgres.com"
+- "+.hackyourconsole.com"
+- "+.happyhlddz.com"
+- "+.haydaypop.cn"
+- "+.hdyxgame.com"
+- "+.heroesofdragonage.com"
+- "+.heroesofthestorm.com"
+- "+.historyofdota.com"
+- "+.historyofdota.net"
+- "+.historyofdota.org"
+- "+.hkgcloudcs.com"
+- "+.honkaiimpact3.com"
+- "+.honkaistarrail.com"
+- "+.hoyo.link"
+- "+.hoyolab.com"
+- "+.hoyoverse.com"
+- "+.humblebundle.com"
+- "+.hutpromos.com"
+- "+.ihappystudio.cn"
+- "+.ihappystudio.com"
+- "+.illusion.co.jp"
+- "+.illusion.jp"
+- "+.in.th"
+- "+.industrialtoys.com"
+- "+.instituteofwar.org"
+- "+.joyjoy.net"
+- "+.kirbysepicyarn.com"
+- "+.kirbysuperstarultra.com"
+- "+.kyurem.com"
+- "+.labycore.cn"
+- "+.lcsmerch.com"
+- "+.leaguehighschool.com"
+- "+.leagueoflegends.ca"
+- "+.leagueoflegends.cn"
+- "+.leagueoflegends.co.kr"
+- "+.leagueoflegends.com"
+- "+.leagueoflegends.info"
+- "+.leagueoflegends.kr"
+- "+.leagueoflegends.net"
+- "+.leagueoflegends.org"
+- "+.leagueoflegendsscripts.com"
+- "+.leaguesharp.info"
+- "+.leaguoflegends.com"
+- "+.learnwithleague.com"
+- "+.legendofzelda.cn"
+- "+.legendofzelda.com.cn"
+- "+.lol-europe.com"
+- "+.lolclub.org"
+- "+.lolespor.com"
+- "+.lolesports.com"
+- "+.lolfanart.net"
+- "+.lolpcs.com"
+- "+.lolshop.co.kr"
+- "+.lolstatic.com"
+- "+.lolusercontent.com"
+- "+.lordofultima.com"
+- "+.loverslab.com"
+- "+.lpl.com.cn"
+- "+.ludosuperstar.cn"
+- "+.ludoworld.net"
+- "+.maddenchampionship.com"
+- "+.maddenrewards.com"
+- "+.maddenseason.info"
+- "+.maddenseason.net"
+- "+.maddenseason.org"
+- "+.mahjongai.net"
+- "+.mahjongcup.cn"
+- "+.mahjongcup.com"
+- "+.mahjongcup.net"
+- "+.marioandluigidreamteam.com"
+- "+.mariobroswii.com"
+- "+.mariokart.cn"
+- "+.mariokart.com.cn"
+- "+.mariokart7.com"
+- "+.mariokart8.com"
+- "+.mariosupersluggers.com"
+- "+.masseffect.com"
+- "+.masseffectarchives.com"
+- "+.maxis.com"
+- "+.metalrevolution.com"
+- "+.mhyurl.cn"
+- "+.midasbuy.com"
+- "+.mihayo.com"
+- "+.mihayou.com"
+- "+.mihoyo.com"
+- "+.mihoyocg.com"
+- "+.mihoyogift.com"
+- "+.mihoyomall.com"
+- "+.miitomo.com"
+- "+.miitomo.com.cn"
+- "+.miiverse.com"
+- "+.minecraft.net"
+- "+.minecraftshop.com"
+- "+.mirrorsedge.com"
+- "+.mirrorsedge.jp"
+- "+.mirrorsedge.net"
+- "+.mirrorsedge2.com"
+- "+.mirrorsedge2d.com"
+- "+.miyoushe.com"
+- "+.modrinth.com"
+- "+.mojang.com"
+- "+.molesports.com"
+- "+.mszdld.cn"
+- "+.mszdld.com"
+- "+.mszdld.net"
+- "+.mysims.com"
+- "+.mysimsracing.com"
+- "+.mythicentertainment.com"
+- "+.mythicentertainment.net"
+- "+.mythicgames.com"
+- "+.n0vadesktop.com"
+- "+.nagcloudcs.com"
+- "+.needforspeed.com"
+- "+.needforspeedboost.com"
+- "+.needforspeeddriftkings.com"
+- "+.needforspeedeliminator.com"
+- "+.needforspeedlightning.com"
+- "+.needforspeedoverdrive.com"
+- "+.needforspeedproven.com"
+- "+.needforspeedredline.com"
+- "+.needforspeedshowdown.com"
+- "+.needforspeedstreetkings.com"
+- "+.needforspeedtakedown.com"
+- "+.needforspeedtherun.com"
+- "+.needforspeedtimeattack.com"
+- "+.needforspeedundergroundeast.com"
+- "+.nentindo.net"
+- "+.newsupermariobrosu.com"
+- "+.nextstudios.com"
+- "+.nextworkshop.net"
+- "+.nexusmods.com"
+- "+.nfsworld.com"
+- "+.nintendo-europe-sales.com"
+- "+.nintendo-europe.com"
+- "+.nintendo.at"
+- "+.nintendo.be"
+- "+.nintendo.ch"
+- "+.nintendo.co.jp"
+- "+.nintendo.co.kr"
+- "+.nintendo.co.uk"
+- "+.nintendo.co.za"
+- "+.nintendo.com"
+- "+.nintendo.com.hk"
+- "+.nintendo.com.pt"
+- "+.nintendo.de"
+- "+.nintendo.dk"
+- "+.nintendo.es"
+- "+.nintendo.eu"
+- "+.nintendo.fi"
+- "+.nintendo.fr"
+- "+.nintendo.it"
+- "+.nintendo.net"
+- "+.nintendo.nl"
+- "+.nintendo.no"
+- "+.nintendo.pt"
+- "+.nintendo.ru"
+- "+.nintendo.se"
+- "+.nintendo.tw"
+- "+.nintendo3ds.com"
+- "+.nintendodsi.com"
+- "+.nintendoeurope.com"
+- "+.nintendolabo.cn"
+- "+.nintendonetwork.net"
+- "+.nintendonyc.com"
+- "+.nintendostore.com"
+- "+.nintendoswitch.cn"
+- "+.nintendoswitch.com"
+- "+.nintendoswitch.com.cn"
+- "+.nintendoswitch.net"
+- "+.nintendoswitchtogether.com"
+- "+.nintendowii.com"
+- "+.op.gg"
+- "+.origin.com"
+- "+.origin.tv"
+- "+.orithegame.com"
+- "+.pandanet-igs.com"
+- "+.papermc.io"
+- "+.paragon.com"
+- "+.personaltrainermath.com"
+- "+.pinkcore.com"
+- "+.pinkcore.net"
+- "+.planetminecraft.com"
+- "+.plantsvszombies2.com"
+- "+.play4free.com"
+- "+.playapex.com"
+- "+.playartifact.com"
+- "+.playhearthstone.com"
+- "+.playnintendo.com"
+- "+.playoverwatch.com"
+- "+.playparagon.com"
+- "+.playstation"
+- "+.playstation.com"
+- "+.playstation.net"
+- "+.playvalorant.com"
+- "+.playwarcraft3.com"
+- "+.pogo.com"
+- "+.pogobeta.com"
+- "+.pokedex3d.com"
+- "+.pokemon-moon.com"
+- "+.pokemon-sun.com"
+- "+.pokemon-sunmoon.com"
+- "+.pokemon.com"
+- "+.pokemonbank.com"
+- "+.pokemonblackwhite.com"
+- "+.pokemonbw.com"
+- "+.pokemonchampionships.com"
+- "+.pokemongoldsilver.com"
+- "+.pokemonhome.com"
+- "+.pokemonletsgoeevee.com"
+- "+.pokemonletsgopikachu.com"
+- "+.pokemonmysterydungeon.com"
+- "+.pokemonpicross.com"
+- "+.pokemonplatinum.com"
+- "+.pokemonrubysapphire.com"
+- "+.pokemonsunmoon.com"
+- "+.pokemonswordshield.com"
+- "+.pokemonultrasunmoon.com"
+- "+.pokemonvgc.com"
+- "+.pokemonwifi.net"
+- "+.popcap.com"
+- "+.projectapex.com"
+- "+.protondb.com"
+- "+.proximabeta.com"
+- "+.pubghelper.com"
+- "+.pubgno1.cn"
+- "+.pubgtool.com"
+- "+.pvp.net"
+- "+.pvp.tv"
+- "+.pvzgw2.com"
+- "+.pvzheroes.com"
+- "+.qqgameapp.com"
+- "+.realcybertron.com"
+- "+.renovacionxboxlive.com"
+- "+.rgpub.io"
+- "+.riot-games.com"
+- "+.riot.com"
+- "+.riot.net"
+- "+.riotcdn.net"
+- "+.riotforgegames.com"
+- "+.riotgames.co.kr"
+- "+.riotgames.com"
+- "+.riotgames.info"
+- "+.riotgames.jp"
+- "+.riotgames.net"
+- "+.riotgames.tv"
+- "+.riotpin.com"
+- "+.riotpoints.com"
+- "+.rmwxgame.com"
+- "+.roblox.cn"
+- "+.roblox.qq.com"
+- "+.robloxdev.cn"
+- "+.roborecall.com"
+- "+.rockstargames.com"
+- "+.roco.qq.com"
+- "+.rsg.sc"
+- "+.rstatic.net"
+- "+.ruinedking.com"
+- "+.s.team"
+- "+.sccreator.cn"
+- "+.sccreators.cn"
+- "+.scescdn.cn"
+- "+.scid.cn"
+- "+.scsentry.cn"
+- "+.seagroup.com"
+- "+.seaofsolitude.com"
+- "+.shadowcomplex.com"
+- "+.simcity-buildit.com"
+- "+.simcity.com"
+- "+.skate2.com"
+- "+.skydweller.cn"
+- "+.sonyentertainmentnetwork.com"
+- "+.spearhead.kr"
+- "+.speedhunters.com"
+- "+.speedrun.com"
+- "+.splatoon2tournament.com"
+- "+.spore.com"
+- "+.spyjinx.com"
+- "+.ssx3.com"
+- "+.st.dl.bscstorage.net"
+- "+.st.dl.eccdnx.com"
+- "+.st.dl.pinyuncloud.com"
+- "+.starcraft.com"
+- "+.starcraft2.com"
+- "+.starfox.com"
+- "+.starwarsbattlefront.com"
+- "+.starwarsbattlefront2.com"
+- "+.starwarsfallenorder.com"
+- "+.starwarsjedifallenorder.com"
+- "+.starwarstheoldrepublic.com"
+- "+.steam-api.com"
+- "+.steam-chat.com"
+- "+.steam.apac.qtlglb.com"
+- "+.steam.cdn.on.net"
+- "+.steam.cdn.orcon.net.nz"
+- "+.steam.cdn.slingshot.co.nz"
+- "+.steam.cdn.webra.ru"
+- "+.steam.eca.qtlglb.com"
+- "+.steam.naeu.qtlglb.com"
+- "+.steam.ru.qtlglb.com"
+- "+.steamchina.com"
+- "+.steamcommunity.com"
+- "+.steamcontent.com"
+- "+.steamdb.info"
+- "+.steamdeck.com"
+- "+.steamgames.com"
+- "+.steampipe.steamcontent.tnkjmec.com"
+- "+.steampowered.com"
+- "+.steampowered.com.8686c.com"
+- "+.steamserver.net"
+- "+.steamstatic.com"
+- "+.steamstatic.com.8686c.com"
+- "+.steamunlocked.net"
+- "+.steamusercontent.com"
+- "+.supercell.com"
+- "+.supercellcommunity.cn"
+- "+.supercellsupport.cn"
+- "+.supermario.com"
+- "+.supermario3dworld.com"
+- "+.supermariobros.com.cn"
+- "+.supermariogalaxy.com"
+- "+.supermariorun.com"
+- "+.superpapermario.com"
+- "+.supersmashbros.cn"
+- "+.supersmashbros.com.cn"
+- "+.supremacy.com"
+- "+.supremacy.net"
+- "+.swjedifallenorder.com"
+- "+.swjfo.com"
+- "+.swtor.com"
+- "+.swtor.net"
+- "+.syxlgame.com"
+- "+.take2games.com"
+- "+.tcfmglobal.com"
+- "+.teamneedforspeed.com"
+- "+.tellmewhygame.com"
+- "+.tencent-gcloud.com"
+- "+.tencentstart.com"
+- "+.texasholdemcup.cn"
+- "+.texasholdemcup.com"
+- "+.texasholdemcup.net"
+- "+.thedreadwolfrises.com"
+- "+.thelegendarystarfy.com"
+- "+.themisweeps.com"
+- "+.thesims.com"
+- "+.thesims3.com"
+- "+.thesims4.com"
+- "+.thesimssocial.com"
+- "+.thewonderful101.com"
+- "+.tiberiumalliances.com"
+- "+.tiburon.com"
+- "+.timibase.com"
+- "+.titanfall.com"
+- "+.tnt-ea.com"
+- "+.ubi.com"
+- "+.ubisoft.com"
+- "+.ubisoftconnect.com"
+- "+.ulol.com"
+- "+.ultimaforever.com"
+- "+.ultimaonline.com"
+- "+.umamusume.akamaized.net"
+- "+.underlords.com"
+- "+.unravel2.com"
+- "+.unraveltwo.com"
+- "+.unrealengine.com"
+- "+.unrealtournament.com"
+- "+.uo.com"
+- "+.uoherald.com"
+- "+.uplay.com"
+- "+.valvesoftware.com"
+- "+.videoxiaoyouxi.com"
+- "+.visceralgames.com"
+- "+.wariolandshakeit.com"
+- "+.wariowarediy.com"
+- "+.wcbygame.com"
+- "+.wegame.com"
+- "+.wegame.com.cn"
+- "+.wegameplus.com"
+- "+.werepository.com.cn"
+- "+.wii-u.com"
+- "+.wiifit.com"
+- "+.wiifitu.com"
+- "+.wiipartyu.com"
+- "+.wiisports.com"
+- "+.wiisportsresort.com"
+- "+.wiiugamepad.com"
+- "+.wiivc.net"
+- "+.wmsjsteam.com"
+- "+.worldflipper.akamaized.net"
+- "+.worldflipper.jp"
+- "+.worldofwarcraft.com"
+- "+.wowchina.com"
+- "+.xbox"
+- "+.xbox.co"
+- "+.xbox.com"
+- "+.xbox.eu"
+- "+.xbox.org"
+- "+.xbox360.co"
+- "+.xbox360.com"
+- "+.xbox360.eu"
+- "+.xbox360.org"
+- "+.xboxab.com"
+- "+.xboxgamepass.com"
+- "+.xboxgamestudios.com"
+- "+.xboxlive.cn"
+- "+.xboxlive.com"
+- "+.xboxone.co"
+- "+.xboxone.com"
+- "+.xboxone.eu"
+- "+.xboxplayanywhere.com"
+- "+.xboxservices.com"
+- "+.xboxstudios.com"
+- "+.xbx.lv"
+- "+.xdsummit.com"
+- "+.xenoblade.com"
+- "+.xn--mts47c3w9b1qr.cn"
+- "+.xn--mts47c3w9b1qr.net"
+- "+.xn--owtw8cc49ajfl.cn"
+- "+.ynoproject.net"
+- "+.yogify.com"
+- "+.yoshisnewisland.com"
+- "+.yuanshen.com"
+- "+.yxdmgame.com"
+- "+.yximg.cn"
+- "+.yxwsgame.com"
+- "+.yzyxgame.com"
+- "+.zcjbgame.com"
+- "+.zhuoyuegame.com"
+- "avatargarenanow-a.akamaihd.net"
+- "blizzard.nefficient.co.kr"
+- "blizzcon-a.akamaihd.net"
+- "blz.nosdn.127.net"
+- "blzddist1-a.akamaihd.net"
+- "blzddistkr1-a.akamaihd.net"
+- "blzmedia-a.akamaihd.net"
+- "blznav.akamaized.net"
+- "bnetcmsus-a.akamaihd.net"
+- "bnetproduct-a.akamaihd.net"
+- "bnetshopus.akamaized.net"
+- "cdngarenanow-a.akamaihd.net"
+- "cloudsync-prod.s3.amazonaws.com"
+- "di.res.netease.com"
+- "diablo3.nosdn.127.net"
+- "dlgarenanow-a.akamaihd.net"
+- "dlmobilegarena-a.akamaihd.net"
+- "ea.tt.omtrdc.net"
+- "eaassets-a.akamaihd.net"
+- "f3b7q2p3.ssl.hwcdn.net"
+- "gamedownloads-rockstargames-com.akamaized.net"
+- "gog.qtlglb.com"
+- "hearthstone.nosdn.127.net"
+- "heroes.nos.netease.com"
+- "lolstatic-a.akamaihd.net"
+- "media-rockstargames-com.akamaized.net"
+- "opgg-static.akamaized.net"
+- "origin-a.akamaihd.net"
+- "overwatch.nosdn.127.net"
+- "prd-priconne-redive.akamaized.net"
+- "sc2.nosdn.127.net"
+- "steambroadcast.akamaized.net"
+- "steamcdn-a.akamaihd.net"
+- "steamcommunity-a.akamaihd.net"
+- "steammobile.akamaized.net"
+- "steampipe-kr.akamaized.net"
+- "steampipe-partner.akamaized.net"
+- "steampipe.akamaized.net"
+- "steamstore-a.akamaihd.net"
+- "steamusercontent-a.akamaihd.net"
+- "steamuserimages-a.akamaihd.net"
+- "steamvideo-a.akamaihd.net"
+- "ubisoft-orbit-savegames.s3.amazonaws.com"
+- "ubisoft-uplay-savegames.s3.amazonaws.com"
+- "ubistatic3-a.akamaihd.net"
+- "videos-rockstargames-com.akamaized.net"
+- "wow.nosdn.127.net"
+- "xz.pphimalayanrt.com"
