@@ -176,3 +176,8 @@ payload:
   - DOMAIN-KEYWORD,desa.id
   - DOMAIN-KEYWORD,ponpes.id
   - GEOIP,ID
+# # DANA  
+  - DOMAIN-SUFFIX,dana.id
+  - DOMAIN,link.dana.id
+  - DOMAIN,danaindonesia.app.link
+  
