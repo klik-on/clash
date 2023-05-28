@@ -1,0 +1,120 @@
+config dns_servers
+        option group 'fallback'
+        option ip 'dns.google'
+        option port '853'
+        option type 'tls'
+        option enabled '1'
+
+config dns_servers
+	option type 'https'
+	option group 'fallback'
+	option ip 'dns.adguard-dns.com/dns-query'
+	option enabled '0'
+
+config dns_servers
+	option group 'fallback'
+	option ip 'dns.adguard-dns.com'
+	option type 'tls'
+	option port '853'
+	option enabled '0'
+
+config dns_servers
+	option type 'https'
+	option group 'fallback'
+	option ip 'dns.quad9.net/dns-query'
+	option enabled '1'
+
+config dns_servers
+	option group 'fallback'
+	option ip '149.112.112.112'
+	option port '853'
+	option type 'tls'
+	option enabled '1'
+
+config dns_servers
+	option group 'fallback'
+	option ip 'one.one.one.one'
+	option port '853'
+	option type 'tls'
+	option enabled '1'
+
+config dns_servers
+        option type 'https'
+        option group 'fallback'
+        option ip 'dns.cloudflare.com/dns-query'
+        option enabled '0'
+
+config dns_servers
+        option group 'fallback'
+        option type 'https'
+        option ip '1.1.1.1/dns-query'
+        option enabled '0'
+
+config dns_servers
+        option group 'fallback'
+        option ip '1.1.1.1'
+        option port '853'
+        option type 'tls'
+        option enabled '0'
+
+config dns_servers
+	option group 'nameserver'
+	option ip '8.8.8.8'
+	option type 'https'
+	option enabled '1'
+
+config dns_servers
+	option group 'nameserver'
+	option type 'https'
+	option ip 'dns.adguard-dns.com/dns-query'
+	option enabled '0'
+
+config dns_servers
+	option group 'nameserver'
+	option ip 'dns.adguard-dns.com'
+	option type 'tls'
+	option port '853'
+	option enabled '0'
+
+config dns_servers
+	option group 'nameserver'
+	option ip 'dns.quad9.net/dns-query'
+	option type 'https'
+	option enabled '1'
+
+config dns_servers
+	option group 'nameserver'
+	option ip '9.9.9.9'
+	option port '853'
+	option type 'tls'
+	option enabled '1'
+
+config dns_servers
+	option group 'nameserver'
+	option ip '114.114.114.114'
+	option type 'https'
+	option enabled '1'
+
+config dns_servers
+	option type 'udp'
+	option group 'default'
+	option ip '192.168.1.1'
+	option enabled '1'
+
+config dns_servers
+	option type 'udp'
+	option group 'default'
+	option ip '94.140.14.14'
+	option enabled '0'
+
+config dns_servers
+	option type 'udp'
+	option group 'default'
+	option ip '8.8.8.8'
+	option enabled '1'
+
+config dns_servers
+	option type 'udp'
+	option group 'default'
+	option ip '114.114.114.114'
+	option enabled '1'
