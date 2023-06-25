@@ -33,14 +33,12 @@ rules:
 dns:
   nameserver:
   - https://8.8.8.8
-  - https://dns.quad9.net/dns-query
-  - tls://9.9.9.9:853
-  - https://114.114.114.114
+  - https://1.1.1.1
+  - https://9.9.9.9
   fallback:
   - tls://dns.google:853
-  - https://dns.quad9.net/dns-query
-  - tls://149.112.112.112:853
-  - tls://one.one.one.one:853
+  - tls://9.9.9.9:853
+  - tls://1.1.1.1:853
   enable: true
   ipv6: false
   enhanced-mode: fake-ip
@@ -62,10 +60,10 @@ dns:
   - 3.id.pool.ntp.org
   - "+.*"
   default-nameserver:
-  - 94.140.14.14
-  - 192.168.1.1
-  - 114.114.114.114
+  - 1.1.1.1
   - 8.8.8.8
+  - 192.168.1.1
+  - 9.9.9.9
   use-hosts: true
   fallback-filter:
     geoip: true
