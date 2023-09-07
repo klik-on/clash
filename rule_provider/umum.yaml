@@ -2,6 +2,7 @@ payload:
 # Browsing LB
   - DOMAIN-SUFFIX,downloadly.ir
   - DOMAIN-SUFFIX,technet24.ir
+  - DOMAIN-SUFFIX,softoroom.org
 # > LIST Streaming IP/Lokasi Wajib Indo
 # > MOLA TV
   - DOMAIN-SUFFIX,mola.tv
