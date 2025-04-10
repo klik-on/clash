@@ -1,5 +1,6 @@
 Reff:
 https://github.com/mwarning/zerotier-openwrt/wiki/Configure-ZeroTier-on-OpenWrt
+https://github.com/mwarning/zerotier-openwrt/wiki/Configure-ZeroTier-routing-in-OpenWrt
 
 root@OpenWrt:~# uci show zerotier
 zerotier.global=zerotier
