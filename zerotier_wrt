@@ -17,3 +17,18 @@ uci delete zerotier.earth
 uci set zerotier.openwrt_network=network
 uci set zerotier.openwrt_network.id='8ad5123ed69d6f69'
 uci commit zerotier
+
+## The zerotier.global.secret
+uci set zerotier.global.secret="$(cat /var/lib/zerotier-one/identity.secret)"
+uci commit zerotier
+
+## Firewall
+uci add firewall rule
+uci set firewall.@rule[-1].name='Allow-ZeroTier-Inbound'
+uci set firewall.@rule[-1].src='*'
+uci set firewall.@rule[-1].target='ACCEPT'
+uci set firewall.@rule[-1].proto='udp'
+uci set firewall.@rule[-1].dest_port='9993'
+uci commit firewall
+
+/etc/init.d/firewall restart
