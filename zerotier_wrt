@@ -1,0 +1,19 @@
+Reff:
+https://github.com/mwarning/zerotier-openwrt/wiki/Configure-ZeroTier-on-OpenWrt
+
+root@OpenWrt:~# uci show zerotier
+zerotier.global=zerotier
+zerotier.global.enabled='0'
+zerotier.earth=network
+zerotier.earth.id='8056c2e21c000001'
+zerotier.earth.allow_managed='1'
+zerotier.earth.allow_global='0'
+zerotier.earth.allow_default='0'
+zerotier.earth.allow_dns='0'
+
+root@OpenWrt:~# cat /etc/config/zerotier
+uci set zerotier.global.enabled='1'
+uci delete zerotier.earth
+uci set zerotier.openwrt_network=network
+uci set zerotier.openwrt_network.id='8ad5123ed69d6f69'
+uci commit zerotier
